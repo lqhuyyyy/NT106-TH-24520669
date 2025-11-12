@@ -1,0 +1,15 @@
+Frozen II
+50000
+1 2 3
+Avengers: Endgame
+70000
+2 3
+Spider-Man: No Way Home
+60000
+1 2 3
+The Lion King
+55000
+1 2
+Joker
+65000
+3

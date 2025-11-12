@@ -1,0 +1,16 @@
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\bin\Debug\net8.0-windows\Lab03_Bai02.exe
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\bin\Debug\net8.0-windows\Lab03_Bai02.deps.json
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\bin\Debug\net8.0-windows\Lab03_Bai02.runtimeconfig.json
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\bin\Debug\net8.0-windows\Lab03_Bai02.dll
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\bin\Debug\net8.0-windows\Lab03_Bai02.pdb
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.Lab03_Bai02.resources
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.csproj.GenerateResource.cache
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.GeneratedMSBuildEditorConfig.editorconfig
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.AssemblyInfoInputs.cache
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.AssemblyInfo.cs
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.csproj.CoreCompileInputs.cache
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.dll
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\refint\Lab03_Bai02.dll
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.pdb
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\Lab03_Bai02.genruntimeconfig.cache
+E:\NT106-TH-24520669\Lab03\Lab03_Bai02\Lab03_Bai02\obj\Debug\net8.0-windows\ref\Lab03_Bai02.dll

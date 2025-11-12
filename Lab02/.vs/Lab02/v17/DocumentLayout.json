@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\NT106-TH-24520669\\Lab02\\",
+  "WorkspaceRootPath": "E:\\GitHub\\NT106-TH-24520669\\Lab02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B51DBD5-7611-401D-86C0-4203C8506B02}|Lab02\\Lab02.csproj|e:\\nt106-th-24520669\\lab02\\lab02\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B51DBD5-7611-401D-86C0-4203C8506B02}|Lab02\\Lab02.csproj|e:\\github\\nt106-th-24520669\\lab02\\lab02\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B51DBD5-7611-401D-86C0-4203C8506B02}|Lab02\\Lab02.csproj|solutionrelative:lab02\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B51DBD5-7611-401D-86C0-4203C8506B02}|Lab02\\Lab02.csproj|e:\\nt106-th-24520669\\lab02\\lab02\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5B51DBD5-7611-401D-86C0-4203C8506B02}|Lab02\\Lab02.csproj|E:\\GitHub\\NT106-TH-24520669\\Lab02\\lab02\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5B51DBD5-7611-401D-86C0-4203C8506B02}|Lab02\\Lab02.csproj|solutionrelative:lab02\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab02_Bai06.cs",
-              "DocumentMoniker": "E:\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs",
+              "DocumentMoniker": "E:\\GitHub\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs",
               "RelativeDocumentMoniker": "Lab02\\Lab02_Bai06.cs",
-              "ToolTip": "E:\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs",
+              "ToolTip": "E:\\GitHub\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs",
               "RelativeToolTip": "Lab02\\Lab02_Bai06.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAEwDkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,13 +49,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Lab02_Bai06.cs [Design]",
-              "DocumentMoniker": "E:\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs",
+              "DocumentMoniker": "E:\\GitHub\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs",
               "RelativeDocumentMoniker": "Lab02\\Lab02_Bai06.cs",
               "ToolTip": "E:\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs [Design]",
-              "RelativeToolTip": "Lab02\\Lab02_Bai06.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02_Bai06.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T05:02:41.192Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-28T05:02:41.192Z"
             }
           ]
         }

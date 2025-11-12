@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9rs3uwbaU4=",
+  "success": true,
+  "projectFilePath": "E:\\NT106-TH-24520669\\Lab03\\Lab03_Bai05\\Lab03_Bai05\\Lab03_Bai05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.118\\stub.system.data.sqlite.core.netstandard.1.0.118.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\system.data.sqlite.core\\1.0.118\\system.data.sqlite.core.1.0.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -362,11 +362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02.csproj",
+      "projectUniqueName": "E:\\GitHub\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02.csproj",
       "projectName": "Lab02",
-      "projectPath": "E:\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02.csproj",
+      "projectPath": "E:\\GitHub\\NT106-TH-24520669\\Lab02\\Lab02\\Lab02.csproj",
       "packagesPath": "C:\\Users\\QUANG HUY\\.nuget\\packages\\",
-      "outputPath": "E:\\NT106-TH-24520669\\Lab02\\Lab02\\obj\\",
+      "outputPath": "E:\\GitHub\\NT106-TH-24520669\\Lab02\\Lab02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUANG HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
