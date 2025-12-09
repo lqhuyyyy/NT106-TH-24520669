@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WaZ5aK/Gl58=",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab05\\Bai6\\Bai6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\bouncycastle.cryptography\\2.6.1\\bouncycastle.cryptography.2.6.1.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\mailkit\\4.14.1\\mailkit.4.14.1.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\microsoft.web.webview2\\1.0.3650.58\\microsoft.web.webview2.1.0.3650.58.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\mimekit\\4.14.0\\mimekit.4.14.0.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
