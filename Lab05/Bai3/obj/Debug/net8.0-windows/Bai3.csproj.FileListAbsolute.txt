@@ -1,0 +1,17 @@
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.Form1.resources
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.csproj.GenerateResource.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfoInputs.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfo.cs
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.csproj.CoreCompileInputs.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.sourcelink.json
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\bin\Debug\net8.0-windows\Bai3.exe
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\bin\Debug\net8.0-windows\Bai3.deps.json
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\bin\Debug\net8.0-windows\Bai3.runtimeconfig.json
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\bin\Debug\net8.0-windows\Bai3.dll
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\bin\Debug\net8.0-windows\Bai3.pdb
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.dll
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\refint\Bai3.dll
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.pdb
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\Bai3.genruntimeconfig.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab05\Bai3\obj\Debug\net8.0-windows\ref\Bai3.dll

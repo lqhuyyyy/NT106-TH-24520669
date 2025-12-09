@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYokLo4s/nA=",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab05\\Bai3\\Bai3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\bouncycastle.cryptography\\2.6.1\\bouncycastle.cryptography.2.6.1.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\mailkit\\4.14.1\\mailkit.4.14.1.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\mimekit\\4.14.0\\mimekit.4.14.0.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\system.formats.asn1\\8.0.1\\system.formats.asn1.8.0.1.nupkg.sha512",
+    "C:\\Users\\QUANG HUY\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
