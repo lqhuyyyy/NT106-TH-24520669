@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\Bai3\\Bai3.csproj": {}
+  },
+  "projects": {
+    "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\Bai3\\Bai3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\Bai3\\Bai3.csproj",
+        "projectName": "Bai3",
+        "projectPath": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\Bai3\\Bai3.csproj",
+        "packagesPath": "C:\\Users\\QUANG HUY\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\Bai3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\QUANG HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A99501-0C22-436E-A127-57EEDFF5FE09}|Bai5\\Bai5.csproj|e:\\github\\nhom-10-23521228-23521250-24520669\\lab04\\bai5\\bai5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8A99501-0C22-436E-A127-57EEDFF5FE09}|Bai5\\Bai5.csproj|solutionrelative:bai5\\bai5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai5",
+              "DocumentMoniker": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\Bai5\\Bai5.csproj",
+              "RelativeDocumentMoniker": "Bai5\\Bai5.csproj",
+              "ToolTip": "E:\\GitHub\\Nhom-10-23521228-23521250-24520669\\Lab04\\Bai5\\Bai5.csproj",
+              "RelativeToolTip": "Bai5\\Bai5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T08:21:57.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

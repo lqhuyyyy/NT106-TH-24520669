@@ -1,0 +1,17 @@
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\bin\Debug\net8.0-windows\Bai1.exe
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\bin\Debug\net8.0-windows\Bai1.deps.json
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\bin\Debug\net8.0-windows\Bai1.runtimeconfig.json
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\bin\Debug\net8.0-windows\Bai1.dll
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\bin\Debug\net8.0-windows\Bai1.pdb
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.Form1.resources
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.GenerateResource.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfoInputs.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfo.cs
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.CoreCompileInputs.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.sourcelink.json
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.dll
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\refint\Bai1.dll
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.pdb
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\Bai1.genruntimeconfig.cache
+E:\GitHub\Nhom-10-23521228-23521250-24520669\Lab04\Bai1\obj\Debug\net8.0-windows\ref\Bai1.dll
